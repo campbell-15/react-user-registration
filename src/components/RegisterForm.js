@@ -64,6 +64,7 @@ const RegisterForm = () => {
             value={bio}
             onChange={(e) => setBio(e.target.value)}
             ></textarea>
+            <p>Checkout the console to see your saved form inputs after hitting submit!</p>
             <button type="submit">Submit</button>
         </form>
         </div>
