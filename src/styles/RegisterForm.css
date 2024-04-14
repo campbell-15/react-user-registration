@@ -5,6 +5,7 @@
     
     .register-form h2 {
         text-align: center;
+        border: 1px solid #0056b3;
     }
     
     .register-form input,
